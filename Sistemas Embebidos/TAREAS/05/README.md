@@ -1,20 +1,10 @@
-# Tarea Número 01
-## Sensores y Actuadores
-## Presentación en diapositivas / mapa mental / 
-### Sergio Francisco Hernández Machuca
+# Tarea Número 05
+## Aplicación orientada a “Eventos” 
+## Equipo 04
+### Román Gabriel Velásquez Reyes
 
-En esta sección se encuentra lo relacionado con Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
-
-Continúa con con el tratamiento de los Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
-
-Esta tarea se entregó el día 23 de septiembre del 2020, año del Covid-19.
+En esta carpeta se almacenan 2 proyectos asignados por equipo, 
+dedicados a "Aplicaciónes físicas, ejercitando interrupciones"
+El equipo realizo los ejercicios 2 y 4
+Aplicación 2: Utilice tres LEDs, uno rojo, uno verde, uno amarillo, asociado con distintas fuentes de interrupción, en donde cada uno de ellos se enciende en consecuencia de que se pulse una señal eléctrica que cambia de “1” a “0” en alguna terminal de algún puerto, cada entrada estará asociada con un LED en particular.
+Aplicación 4: Implementar un timer de tiempo real (minutos y segundos) empleando el concepto de interrupciones (Revisar ejercicios anteriores). 
