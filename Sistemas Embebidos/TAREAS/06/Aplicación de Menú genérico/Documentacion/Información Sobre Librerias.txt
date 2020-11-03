@@ -1,0 +1,12 @@
+Librerias utilizadas:
+
+#include <MD_Menu.h> //Está fue utilizada para el menu principal-
+#include <LiquidCrystal.h>//Está fue utilizada para la interfaz I2c con la Lcd
+
+Para la parte de botones se utilizo la libreria: 
+
+#include <MD_UISwitch.h> //controlamos la manera en la que se pulsa el pushh button
+
+Los links en los que nos basamos para entender y modificar el codigo, es el siguiente: 
+https://majicdesigns.github.io/MD_Menu/files.html //pagina para MdMenu 
+https://majicdesigns.github.io/MD_UISwitch/ // pagina para botones
