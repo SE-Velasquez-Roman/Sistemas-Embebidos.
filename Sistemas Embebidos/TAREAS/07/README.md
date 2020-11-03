@@ -1,20 +1,12 @@
-# Tarea Número 01
-## Sensores y Actuadores
-## Presentación en diapositivas / mapa mental / 
-### Sergio Francisco Hernández Machuca
+# Tarea Número 07
+## Sistemas Embebidos
+## Menú básico en PC
+### Román Gabriel Velásquez Reyes
 
-En esta sección se encuentra lo relacionado con Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
+Realizado por el equipo 04: 
+Hernández Reyes Roberto Saul 
+Sánchez López Luis Uriel 
+Velásquez Reyes Román Gabriel
 
-Continúa con con el tratamiento de los Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
-
-Esta tarea se entregó el día 23 de septiembre del 2020, año del Covid-19.
+Se Desarrollo un “Menú Básico” desde la PC con un lenguaje “Visual”, capaz de comunicarse con nuestro uC y con el que el usuario pueda interactuar. Aprendimos a realizar una comunicación serial entre la uC y el programa que contiene el menú.
+Para esta actividad, trabajamos con Processing el cual es una aplicación gratuita, que nos permite escribir, editar, compilar y ejecutar código Java.Y la libreria 	ControlP5, dentro se encuentra el codigo .ino y la parte que realizamos con processing, dentro tambien una carpeta que contiene un video de demostración
