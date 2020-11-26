@@ -1,20 +1,9 @@
-# Tarea Número 01
-## Sensores y Actuadores
-## Presentación en diapositivas / mapa mental / 
-### Sergio Francisco Hernández Machuca
+# Tarea Número 09
+## Sistemas de Tiempo Real
+##  Codigo 
+### Román Gabriel Velásquez Reyes
 
-En esta sección se encuentra lo relacionado con Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
+Sistemas Operativos de Tiempo Real. Estudio de las variantes que existen (como plataformas, bibliotecas, apoyos y soportes) para la plataforma Arduino.
+ FreeRTOS. Instalación y simulación de ejemplos.
 
-Continúa con con el tratamiento de los Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
-
-Esta tarea se entregó el día 23 de septiembre del 2020, año del Covid-19.
+Utilizamos la plataforma Arduino y un Esp32,  para la  esta actividad, con exito por medio del puerto serial entendemos el concepto de los FREERTOS, tanto prioridades, realizar unas tareas mas o menos que otras, se pasen o se realicen al mismo momento.
