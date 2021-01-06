@@ -1,5 +1,4 @@
 # Proyecto final
-##Román Gabriel Velásquez Reyes
 Codigos--Arduino 
        --Procesing 
 Documentación--Manual tecnico    (Pdf y Word)
