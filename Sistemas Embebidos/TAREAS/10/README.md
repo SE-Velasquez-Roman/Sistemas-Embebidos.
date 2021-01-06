@@ -1,4 +1,4 @@
-# Tarea Número 01
+# Proyect Final
 ## Sensores y Actuadores
 ## Presentación en diapositivas / mapa mental / 
 ### Sergio Francisco Hernández Machuca
