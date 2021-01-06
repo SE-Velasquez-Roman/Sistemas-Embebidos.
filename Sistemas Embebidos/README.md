@@ -1,2 +1,10 @@
-# Sistemas Embebidos
-Repositorio con el objetivo de almacenar tareas y actividades realizadas durante la EE de Tópicos II, "Sistemas Embebidos"
+# Proyecto final
+##Román Gabriel Velásquez Reyes
+Codigos--Arduino 
+       --Procesing 
+Documentación--Manual tecnico    (Pdf y Word)
+             --Manual de Usuario (Pdf y Word)
+Evidencias---Video de prueba en Youtube y Drive 
+Presentación del proyecto--Video de presentación en zoom 
+Simulacion--Archivo Esquematico 
+Software  -- Instaladores 
